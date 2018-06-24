@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you  need to do it?
+git init
+-> creates hidden directory for saving history information
+-> does not perform a commit yet.
+-> can be done for existing and not existiting directories
