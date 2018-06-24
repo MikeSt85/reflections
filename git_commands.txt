@@ -1,0 +1,23 @@
+git log
+  -> shows log of commits
+  - options: --stat : statistik on log history which also shows how much was changed and how many files were affected
+git diff [commit ID 1] [commit ID 2]
+  -> shows diff between two file versions
+git clone [link to repository]
+  -> clone git repository from online backend
+git config --global color.ui auto
+  -> to see colored output in git diff etc
+git checkout [commit ID]
+  -> going back to an old version
+git init
+  -> initalize git repository in existig directory
+git status
+  -> important: shows also changes since last git commit
+
+git add <file>
+ -> adds file to staging area in git
+git reset <file>
+ -> remove file from staging area
+
+Workspace changes:
+
